@@ -1,0 +1,14 @@
+#form {
+  text-align: center; 
+  height: 100%;
+}
+
+#form input {
+  margin: 5px; border-radius: 25px; border: 1px black solid;
+  text-align: center; 
+}
+
+#welcome {
+  text-align: center; 
+  display:none;
+}
